@@ -82,7 +82,7 @@ MIT License - สามารถนำไปใช้และแก้ไขไ
 
 ## 👨‍💻 Author
 
-[ชื่อของคุณ]
+[Nattachai]
 
 ## 🤝 Contributing
 
@@ -90,4 +90,4 @@ Pull requests are welcome!
 
 ---
 
-**สร้างโดย ❤️ สำหรับ Fiverr Portfolio**
+**สร้างโดย Nattachai สำหรับ Fiverr Portfolio**
